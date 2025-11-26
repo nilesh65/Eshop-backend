@@ -1,6 +1,6 @@
 At first, the backend/docker-compose.yml needs to be run[Will need docker installed in the machine]<br>
 
-Now in the logs when the status is ready to accept connections then the main class of backend needs to be started<br>
+Now in the chroma-db logs in docker when the status is ready to accept connections then the main class of backend needs to be started<br>
 
 After this the backend is ready to serve requests<br>
 
