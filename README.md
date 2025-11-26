@@ -1,7 +1,11 @@
 At first, the backend/docker-compose.yml needs to be run[Will need docker installed in the machine]<br>
+
 Now in the logs when the status is ready to accept connections then the main class of backend needs to be started<br>
+
 After this the backend is ready to serve requests<br>
+
 Finally for frontend going in the frontend folder path and running npm run dev in terminal will start the code at port 5174<br>
+
 Now user can access the full stack app.<br>
 
 <img width="926" height="422" alt="image" src="https://github.com/user-attachments/assets/cb45c724-5660-4aa8-91fb-d36960131922" />
